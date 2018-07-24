@@ -182,10 +182,10 @@ margin-bottom: 20px;
   background-color: rgba(0,0,0,0.5);
   color: #ffffff;
   position: absolute;
-  bottom: 5px;
+  bottom: 6px;
   left: 5;
-  width: 100%;
-  padding: 5px 20px;
+  width: 96.5%;
+  padding: 5px 10px;
   box-sizing: border-box;
 }
 .osusume li a{
